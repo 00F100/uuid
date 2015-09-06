@@ -9,7 +9,7 @@
  * @license http://opensource.org/licenses/MIT MIT
  */
 
-namespace Rhumsaa\Uuid;
+namespace Ramsey\Uuid;
 
 use InvalidArgumentException;
 
