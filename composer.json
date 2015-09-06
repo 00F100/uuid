@@ -42,7 +42,7 @@
         "doctrine/dbal": "Allow the use of a UUID as doctrine field type."
     },
     "autoload": {
-        "psr-4": {"Rhumsaa\\Uuid\\": "src/"}
+        "psr-4": {"Ramsey\\Uuid\\": "src/"}
     },
     "replace": {
         "00f100/uuid": "self.version"
