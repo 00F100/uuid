@@ -1,5 +1,5 @@
 {
-    "name": "00F100/uuid",
+    "name": "00f100/uuid",
     "description": "A PHP 5.3+ library for generating RFC 4122 version 1, 3, 4, and 5 universally unique identifiers (UUID).",
     "type": "library",
     "keywords": ["uuid", "identifier", "guid"],
@@ -45,6 +45,6 @@
         "psr-4": {"Rhumsaa\\Uuid\\": "src/"}
     },
     "replace": {
-        "00F100/uuid": "self.version"
+        "00f100/uuid": "self.version"
     }
 }
